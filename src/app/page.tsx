@@ -1,4 +1,4 @@
-import Image from "next/image";
+"use client";
 import CreativeEditorSDK from "@/components/CreativeEditorSDK";
 
 export default function Home() {
